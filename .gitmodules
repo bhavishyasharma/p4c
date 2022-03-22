@@ -9,3 +9,6 @@
 	path = backends/ebpf/runtime/contrib/libbpf
 	url = https://github.com/libbpf/libbpf
 	ignore = dirty
+[submodule "extensions/p4c-xdp"]
+	path = extensions/p4c-xdp
+	url = git@github.com:bhavishyasharma/p4c-xdp.git
